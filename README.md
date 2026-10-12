@@ -1,4 +1,4 @@
-# ISO 8601 Kawara Font
+# ISO 8601 Kawara
 
 Adapted from On Kawara by Vincent Bruijn (y-a-v-a / Yet Another Visual Artist).
 Copyright © 2018–2021 Vincent Bruijn.
